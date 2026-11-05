@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2022-h1",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "板岩蓝、课堂灰和旧纸白的讲授记录：两张课堂横片以不同高度叠放成阶梯式讲义，奖项海报保持小尺寸完整展示，位于独立来源栏。事实边界：2022 上半年分片，不把海报上的个人结果转成网站实时排行或未经核对的学校统计。",
+    "layout": "editorial",
+    "palette": {
+      "light": {
+        "bg": "#DCE3E6",
+        "surface": "#EEF1EA",
+        "ink": "#2A3D47",
+        "muted": "#536670",
+        "accent": "#3d6477"
+      },
+      "dark": {
+        "bg": "#18262E",
+        "surface": "#283C47",
+        "ink": "#E6F0ED",
+        "muted": "#a5bdc6",
+        "accent": "#a8cdda"
+      }
+    },
+    "threeConcept": "Three.js 创建可调角度的板岩蓝讲义夹，夹内固定两张课堂照片和一张海报缩片；以纸层和金属夹展示体积，不给人物做立体分层。",
+    "distinctiveInteraction": "切换“课堂样本 / 海报样本”时改变前层纸页，并保持完整原图按钮和原路径固定可见；颜色之外同时用文字指明选中样本。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "会议交流，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h1/blob/main/UploadFiles/xwzx/2022/1/202201261615576543.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h1/blob/main/UploadFiles/xwzx/2022/1/202201261615576543.jpg",
+      "path": "UploadFiles/xwzx/2022/1/202201261615576543.jpg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "课堂教学，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h1/blob/main/UploadFiles/xwzx/2022/4/202204191011566156.png"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h1/blob/main/UploadFiles/xwzx/2022/4/202204191011566156.png",
+      "path": "UploadFiles/xwzx/2022/4/202204191011566156.png"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "物理竞赛获奖展示，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h1/blob/main/UploadFiles/xwzx/2022/1/202201030759241739.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2022-h1/blob/main/UploadFiles/xwzx/2022/1/202201030759241739.jpg",
+      "path": "UploadFiles/xwzx/2022/1/202201030759241739.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
